@@ -8,3 +8,4 @@ bot.on("message", function (msg) {
     const chatId = msg.chat.id;
     bot.sendMessage(chatId, "Salom");   
 })
+console.log("Bot ishga tushdi...");
