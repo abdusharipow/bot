@@ -23,7 +23,7 @@ bot.on("message", function (msg) {
   } else if (text == "Menu 🥩") {
     bot.sendMessage(chatId, "Menyuga xush kelibsiz....");
   } else if (text == "Sozlamalar ⚙️") {
-    bot.sendMessage(chatId, "Sozlamalar xush kelibsiz ⚙️....");
+    bot.sendMessage(chatId, "Sozlamalar xush kelibsiz ....");
   } else {
     bot.sendMessage(chatId, "❗️ Xatolik, iltimos /start tugmasini bosing... ");
   }
