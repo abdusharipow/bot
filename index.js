@@ -89,6 +89,5 @@ Siz lamborghini Urus sotib olish uchun tolov qildingizmi?
   // console.log(query);
 });
 
-// npm install nodemon --save-dev
 
 console.log("Bot ishga tushdi  ");
